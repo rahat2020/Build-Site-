@@ -1,6 +1,6 @@
-# Created A project with Tailwind CSS with React JS
+# Created A project with React JS and Tailwind CSS.
 
-Here is the live link [Create React App](https://build-site-with-tailwind.web.app/).
+Here is the live link [Build Site](https://build-site-with-tailwind.web.app/).
 
 ## Enjoy Coding.
 
