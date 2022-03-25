@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: TenorSans-Regular
+font link: https://fonts.google.com/specimen/Tenor+Sans
+font author: Denis Masharov
+font author site: https://www.behance.net/Denis_Masharov
+
+
+{"bg":"#0038F4","icon":"#AEFFF4","font":"#AEFFF4","slogan":"#c2ffff"}
+      

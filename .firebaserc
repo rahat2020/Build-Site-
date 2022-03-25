@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "build-site-with-tailwind"
+  }
+}
